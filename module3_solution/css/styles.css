@@ -1,0 +1,33 @@
+*{
+    font-family: cursive;
+}
+h1{
+    padding-bottom: 25px;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 3em;
+}
+.container>div{
+    padding: 10px;
+}
+.menu-item{
+    border: 1px solid black;
+    padding: 10px;
+    background-color: rgb(173, 169, 169);
+}
+.menu-item h2{
+    font-size: 2em;
+    font-style: italic;
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+ul li{
+    font-weight: bold;
+    font-size: 1.5em;
+    padding-bottom: 0;
+}
+.nav-list>li>hr{
+    margin: 0;
+}
