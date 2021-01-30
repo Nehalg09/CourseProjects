@@ -24,11 +24,16 @@ h1{
     font-weight: bold;
     font-size: 2em;
 }
+#nav-list a:hover {
+    background: #E7E7E7;
+  }
+
 ul li{
     font-weight: bold;
     font-size: 1em;
     padding-bottom: 0;
 }
-.nav-list>li>hr{
-    margin: 0;
+
+.collapse.navbar-collapse{
+    border:5px solid gray;
 }
